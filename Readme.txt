@@ -1,4 +1,4 @@
-# Codev-Recherche
+# Codev Recherche
 
 Codev-Recherche est un projet de recherche mené par un étudiant de l'IMT Atlantique, sous la supervision de l'un des enseignants-chercheurs de l'école. Ce projet a pour objectif de reproduire et valider les résultats d'un ou plusieurs articles de recherche existants.
 
