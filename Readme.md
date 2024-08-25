@@ -6,7 +6,7 @@ Dans ce cadre, j'ai réalisé mon projet sous la supervision du Professeur Lucas
 
 Une des améliorations que nous avons apportées au modèle est l'apprentissage à partir d'une vidéo YouTube en utilisant le finetuning de YOLOv7. J'ai crée et annoter la base de donnée d'entrainnement disponible [ici](https://universe.roboflow.com/pendulum/ccprime/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true).
 
-<video src="[path_to_video.mp4](https://github.com/lha2023/Codev-Recherche/blob/main/Output%20YoloV7.mp4)" controls="controls" style="max-width: 100%;">
+<video src="https://github.com/lha2023/Codev-Recherche/blob/main/Output%20YoloV7.mp4" controls="controls" style="max-width: 100%;">
     Your browser does not support the video tag.
 </video>
 
