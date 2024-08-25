@@ -6,4 +6,4 @@ Dans ce cadre, j'ai réalisé mon projet sous la supervision du Professeur Lucas
 
 Une des améliorations que nous avons apportées au modèle est l'apprentissage à partir d'une vidéo YouTube en utilisant le finetuning de YOLOv7. J'ai réussi à reproduire les résultats du premier article proposé par mon encadrant, mais lorsque nous avons appliqué ce modèle sur des données extraites d'une vidéo, la méthode s'est révélée moins efficace. J'ai donc recherché un autre article pour résoudre ce problème : Learning Hamiltonians from Noisy and Sparse Data, ce qui a abouti à des résultats très surprenants.
 
-Le rapport suivant présente une comparaison des trois modèles afin d'évaluer leur efficacité respective.
+Le rapport [Suivant](https://github.com/lha2023/Codev-Recherche/blob/main/Rapport%20CODEV%20Recherche.pdf) présente une comparaison des trois modèles afin d'évaluer leur efficacité respective.
